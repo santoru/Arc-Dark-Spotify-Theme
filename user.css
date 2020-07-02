@@ -4,3 +4,7 @@
 	width: 0px !important;
 	background-color: transparent;
 }
+
+.ConnectPopup__devices-image {
+	display: none;
+}
