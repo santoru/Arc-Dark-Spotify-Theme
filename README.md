@@ -12,7 +12,7 @@ The theme needs [spicetify](https://github.com/khanhas/spicetify-cli) in order t
 Just run these commands on a terminal:
 
 ```bash
-git clone https://github.com/meliot/Arc-Dark-Spotify-Theme
+git clone https://github.com/santoru/Arc-Dark-Spotify-Theme
 mv Arc-Dark-Spotify-Theme ~/.config/spicetify/Themes/
 spicetify config current_theme Arc-Dark-Spotify-Theme
 spicetify apply
